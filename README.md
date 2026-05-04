@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Recent projects
+
+<!-- DEVIN-AUTO-PINS-START -->
+- [valorant-helper-tool](https://github.com/minicicadagorge/valorant-helper-tool) — The Valorant Helper Tool is a utility designed for gamers and developers to enhance their experience with the game. It p
+<!-- DEVIN-AUTO-PINS-END -->
