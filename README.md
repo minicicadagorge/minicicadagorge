@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 ## Recent projects
 
 <!-- DEVIN-AUTO-PINS-START -->
+- [cs2-game-tool](https://github.com/minicicadagorge/cs2-game-tool) — This tool is designed for gamers and developers to enhance their experience with the cs2 game. It provides a set of feat
 - [valorant-helper-tool](https://github.com/minicicadagorge/valorant-helper-tool) — The Valorant Helper Tool is a utility designed for gamers and developers to enhance their experience with the game. It p
 <!-- DEVIN-AUTO-PINS-END -->
+
